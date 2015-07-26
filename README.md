@@ -14,4 +14,5 @@ Installing the driver:
 - sudo python setup.py install
 
 Running the project
-- TBD
+This is currently a very simple project which just reports temperature and humidity. Will evolve further.
+- sudo ./piHomeWeather.py
